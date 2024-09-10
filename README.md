@@ -1,16 +1,27 @@
-## Hi there 👋
+Hello, I am Jonell Bonilla! 👋
+🎓 Computer Science student at the University of Houston with a passion for software development, database management, and game development. Currently seeking internship opportunities to apply my technical skills and gain industry experience.
 
-<!--
-**jonell04/jonell04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technical Skills:
+Languages: C/C++, JavaScript, SQL, LaTeX, PHP, HTML, Python, CSS, C#
+Frameworks & Tools: MySQL, Git, Azure, Ubuntu, VSCode, FileZilla, Overleaf, Replit
+Relevant Coursework: Data Structures, Artificial Intelligence, Operating Systems, Programming and Data Structures, Computer Organization & Architecture, Intro to Automata
 
-Here are some ideas to get you started:
+💻 Projects:
+Zoo Employer Database System
+Developed a web application using MySQL and PHP to manage zoo-related data.
+Designed an intuitive UI using HTML, CSS, and JavaScript for different user roles (visitor, employee, employer).
+Deployed on Azure and integrated secure database management.
+Turn-Based RPG Game (C++)
+Built a text-based RPG in C++ featuring classes like Wizard, Samurai, Thief, and Demon, each with unique abilities.
+Implemented game mechanics using Object-Oriented Programming (OOP) principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+Advanced data structures and algorithms
+Full-stack development with Node.js and React
+
+💬 Ask me about:
+Game development, database management, C++, web development
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/jonellbonilla/)
+- [GitHub](https://github.com/jonell04)
